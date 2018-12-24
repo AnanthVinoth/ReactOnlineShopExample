@@ -1,0 +1,21 @@
+nav {
+	height: 100px;
+}
+.navbar-brand {
+	color: white !important;
+	margin-top: 25px;
+}
+
+thead th {
+	background: #4285f4;
+	color: white;
+	text-align: center;
+}
+
+.place-order {
+	width: 200px;
+}
+
+.order-items {
+	padding: 30px;
+}
